@@ -12,3 +12,6 @@ artifacts/
 #Hardhat plugin files
 typechain-types/
 .env
+
+# Noir files
+*.proof
